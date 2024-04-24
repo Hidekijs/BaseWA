@@ -1,2 +1,2 @@
 # BaseWA
-Base de boy para whatsapp multidevice
+Base bot para whatsapp multidevice
